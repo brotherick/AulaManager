@@ -36,7 +36,7 @@ class AsignacionController extends Controller
 
   public function delete($id)
   {
-    DB::table('asignacion')->where('id_alumno', '=', $id)->delete();
+    DB::table('asignacion')->where('id', '=', $id)->delete();
     return redirect('/asignacion/list');
   }
 
