@@ -78,7 +78,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Prueba Tecnica <b>Viaro.networks</b>
+                    Prueba Tecnica <b>Test</b>
                 </div>
 
                 <div class="links">
